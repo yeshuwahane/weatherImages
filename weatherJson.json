@@ -13,6 +13,26 @@
     "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/rain.jpeg",
     "title": "rain"
 
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/haze.jpeg",
+    "title": "haze"
+
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/mist.jpeg",
+    "title": "mist"
+
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/snow.jpeg",
+    "title": "snow"
+
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/thunderstorm.jpeg",
+    "title": "thunderstorm"
+
   }
 
 
