@@ -62,6 +62,10 @@
   {
     "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/dew.png",
     "title": "dew icon"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/breath.png",
+    "title": "breath icon"
   }
 
 
