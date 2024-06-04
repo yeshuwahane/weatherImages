@@ -54,6 +54,10 @@
   {
     "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/air.png",
     "title": "wind icon"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/yeshuwahane/weatherImages/main/weather_images/humidity.png",
+    "title": "humidity icon"
   }
 
 
